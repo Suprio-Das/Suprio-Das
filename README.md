@@ -1,6 +1,12 @@
 # 💫 About Me:
-Hi, I'm Suprio. I'm a student of Computer Science and Engineering at Port City International University. <br> I'm currently learning NLP, Machine Learning. A fun fact about me is that I can't control myself from making mistakes!
+My interest is creating websites that are both user-friendly and visually stunning.
+I specialize in creating responsive websites that adjust to any device, delivering a consistent user experience across PCs, tablets, and smartphones.
+My skill set blends the strength of raw CSS for granular control with the speed of popular frameworks like like Bootstrap and Tailwind CSS for faster development.
 
+I am knowledgeable in JavaScript, which allows me to add interactivity and dynamic components to the website, thereby making it more interesting for users.
+My experience lies in swiftly converting design templates into functional websites, saving important time and resources.
+
+Let's work together to bring your online vision to life!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/supriodas07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suprio_das) 
