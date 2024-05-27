@@ -3,7 +3,7 @@ My interest is creating websites that are both user-friendly and visually stunni
 I specialize in creating responsive websites that adjust to any device, delivering a consistent user experience across PCs, tablets, and smartphones.
 My skill set blends the strength of raw CSS for granular control with the speed of popular frameworks like like Bootstrap and Tailwind CSS for faster development.
 
-I am knowledgeable in JavaScript, which allows me to add interactivity and dynamic components to the website, thereby making it more interesting for users.
+I am knowledgeable in JavaScript and React, which allows me to add interactivity and dynamic components to the website, thereby making it more interesting for users.
 My experience lies in swiftly converting design templates into functional websites, saving important time and resources.
 
 Let's work together to bring your online vision to life!
