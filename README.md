@@ -79,5 +79,3 @@ I’m Suprio Das, a passionate **B.Sc. in Computer Science and Engineering** stu
 </div>  
 
 ---
-
-Feel free to personalize this further. Let me know if you want additional tweaks!
