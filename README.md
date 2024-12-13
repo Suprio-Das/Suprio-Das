@@ -1,32 +1,83 @@
-# 💫 About Me:
-My interest is creating websites that are both user-friendly and visually stunning.
-I specialize in creating responsive websites that adjust to any device, delivering a consistent user experience across PCs, tablets, and smartphones.
-My skill set blends the strength of raw CSS for granular control with the speed of popular frameworks like like Bootstrap and Tailwind CSS for faster development.
+<div align="center">
+<img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" align="center" style="width: 200px; height: 200px" />
+</div>  
 
-I am knowledgeable in JavaScript and React, which allows me to add interactivity and dynamic components to the website, thereby making it more interesting for users.
-My experience lies in swiftly converting design templates into functional websites, saving important time and resources.
+# <div align="center">👋 Hello, World!  
 
-Let's work together to bring your online vision to life!
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/supriodas07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suprio_das) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-##  GitHub Stats
-# 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprio-Das&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br><br>
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Suprio-Das&theme=dark&hide_border=false) <br><br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suprio-Das&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br><br>
-
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Suprio-Das&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+I’m Suprio Das, a passionate **B.Sc. in Computer Science and Engineering** student currently in my third year, eager to craft innovative solutions and contribute to impactful software development.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Suprio-Das&icon=9&color=0)](https://visitcount.itsvg.in)
+
+### 🌟 **What I Do**  
+- **💻 Front-End Developer**: Building intuitive, user-friendly, and visually stunning web interfaces.  
+- **🌐 Junior MERN Developer**: Skilled in **MongoDB, Express.js, React.js, and Node.js**.  
+  *(Note: I’m working to upload my MERN projects to GitHub soon!)*  
+- **📋 Project Experience**:  
+  - **RentResident** - A House Rent Management System using MySQL.  
+  - **Alumni Association Portal** - A web platform for alumni engagement and collaboration.  (Will be on GIT very soon.)
+  - **Ema-John** - An E-commerce app leveraging **React.js, LocalStorage, and React Router**.  
+  - **Quizzy** - A fun and dynamic quiz app built using **React.js, LocalStorage, and React Router**.  
+
+---
+
+### 🎓 **Certifications & Skills**  
+- **RPL Certified MS Office Expert**  
+- Hands-on experience with frameworks and databases.  
+- Skilled in **web development, database management, and team collaboration**.  
+
+---
+
+### 🌱 **What I’m Learning**  
+- Exploring **Machine Learning** and **Data Science**.  
+- Deepening expertise in **full-stack development**.  
+
+---
+
+## 🔧 **My Tech Stack**  
+
+### Frontend  
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+</div>  
+
+### Backend
+<div align="center">  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 30px; width: 100px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 30px; width: 120px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 30px; width: 120px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 30px; width: 120px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+</div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 📬 **Connect with Me**  
+<div align="center">
+<a href="https://github.com/Suprio-Das" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>  
+<a href="https://www.facebook.com/supriodas07" target="_blank"><img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" /></a>  
+</div>  
+
+---
+
+## 📊 **GitHub Stats**  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Suprio-Das&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+---
+
+## 🌐 **Recent Blog Posts**  
+*(Coming Soon!)*  
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Suprio-Das&&style=flat-square" align="center" />
+</div>  
+
+---
+
+Feel free to personalize this further. Let me know if you want additional tweaks!
