@@ -14,7 +14,7 @@ I’m Suprio Das, a passionate **B.Sc. in Computer Science and Engineering** stu
   *(Note: I’m working to upload my MERN projects to GitHub soon!)*  
 - **📋 Project Experience**:  
   - **RentResident** - A House Rent Management System using MySQL.  
-  - **Alumni Association Portal** - A web platform for alumni engagement and collaboration.  (Will be on GIT very soon.)
+  - **Campus Connect - A Platform for Collaboration and Opportunities** - A web platform for alumni-student engagement and collaboration.  <i>(Will be on GIT very soon.)</i>
   - **Ema-John** - An E-commerce app leveraging **React.js, LocalStorage, and React Router**.  
   - **Quizzy** - A fun and dynamic quiz app built using **React.js, LocalStorage, and React Router**.  
 
