@@ -21,7 +21,7 @@ I’m Suprio Das, a passionate **B.Sc. in Computer Science and Engineering** stu
 ---
 
 ### 🎓 **Certifications & Skills**  
-- **RPL Certified MS Office Expert**  
+- **RPL Certified MS Office Expert**  <a href="https://drive.google.com/file/d/1SHwjHePdmeAODJUDN8eCfTgZameG3Hrl/view?usp=drive_link" target="_blank">View</a>
 - Hands-on experience with frameworks and databases.  
 - Skilled in **web development, database management, and team collaboration**.  
 
