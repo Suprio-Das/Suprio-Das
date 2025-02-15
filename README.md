@@ -4,6 +4,10 @@
 # 🌟 What I do:
 🎓 Studying Computer Science & Engineering at <a href="https://www.portcity.edu.bd/">PCIU</a><br>👨🏼‍💻 Exploring MERN Stack since 2022 <br>💻 Just started exploring Data Science and Machine Learning</i>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supriodas03/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/supriodas07) 
+
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
