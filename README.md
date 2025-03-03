@@ -43,6 +43,14 @@
 
 ---
 
+## 🔥 My GitHub Streak
+<p align="center">
+  <a href="https://github.com/Suprio-Das">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suprio-Das&theme=tokyonight&hide_border=true&raw=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+
 ## 📊 GitHub Stats & Activity  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suprio-Das&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="420px"/>
