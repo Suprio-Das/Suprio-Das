@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="suprio-banner.png" alt="GitHub Banner" width="100%"/>
+  <img src="/MyGithub-banner.png" alt="GitHub Banner" width="100%"/>
 </p>
 
 <!-- Typing Animation -->
