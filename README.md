@@ -9,8 +9,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <b>Welcome to My GitHub Profile!</b>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGwwbzhtOXBvdWo3anFkY2NuemRjc2NjcmQ2enZua3Bjc3VnbTJzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R8IoexZa273DT2Nysh/giphy.gif" width="30px"/>
+  <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>-->
+  <b>Scroll down to explore!</b>
 </p>
 
 ---
