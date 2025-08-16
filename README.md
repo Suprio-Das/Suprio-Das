@@ -18,7 +18,7 @@
 
 ## 🚀 About Me  
 - 🎓 **Pursuing CSE at** [PCIU](https://www.portcity.edu.bd/)  
-- 💻 **MERN Stack Developer | Learning Data Science**  
+- 💻 **MERN Stack Developer | Data Scientist**  
 - 🔥 **Building Scalable & Interactive Web Apps**  
 - 🚀 **Exploring AI & Machine Learning**  
 - 💡 **Always Open to Collaboration & Teamwork**  
