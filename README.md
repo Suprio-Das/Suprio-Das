@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="/MyGithub-banner.png" alt="GitHub Banner" width="100%"/>
+  <img src="/Updated_LinkedIn banner.png" alt="GitHub Banner" width="100%"/>
 </p>
 
 <!-- Typing Animation -->
